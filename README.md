@@ -8,7 +8,7 @@ Redshift・PostgreSQL・Tableauなどを活用し、要件定義から分析・�
 
 ## 🔹 1. Sales & Customer Insights Dashboard
 
-![dashboard-sample](https://user-images.githubusercontent.com/haruhi-taniguchi/sample-image.png)
+![image](https://github.com/user-attachments/assets/fbd7ae90-b9ef-46c8-b265-335c3a9410eb)
 
 - **概要**：Tableau Public で作成した「売上と顧客行動の分析ダッシュボード」
 - **使用ツール**：PostgreSQL（元はRedshift想定）× Tableau Public

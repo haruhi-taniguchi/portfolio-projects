@@ -16,7 +16,7 @@ Redshift・PostgreSQL・Tableauなどを活用し、要件定義から分析・�
 - **分析軸**：
   - 月別売上推移／カテゴリ別傾向／地域別収益構造
   - 顧客セグメント別のリピート傾向分析
-- **リンク**：[▶ Tableau Publicで見る](https://public.tableau.com/app/profile/haruhi.taniguchi/viz/sales-dashboard/Overview)
+- **リンク**：[▶ Tableau Publicで見る] [View on Tableau Public](https://public.tableau.com/app/profile/taniguchi.haruhi/viz/_17518802990720/SalesCustomerInsights)
 - **GitHub**：[📁 ソースはこちら](https://github.com/haruhi-taniguchi/tableau-sales-dashboard)
 
 ---
